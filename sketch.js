@@ -21,8 +21,8 @@ function draw() {
   noStroke();
 
   push()
-    let s = 'MOVE THE CURSOR TO MOVE CIRCLES';
-    let t = 'CLICK AND MOVE TO CHANGE COLORS';
+    let s = 'MOVE THE CURSOR HORIZONTALLY TO MOVE CIRCLES';
+    let t = 'CLICK AND MOVE VERTICALLY TO CHANGE COLORS';
     stroke('white');
     strokeWeight(0.5);
     noFill()
